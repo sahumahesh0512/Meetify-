@@ -25,6 +25,7 @@ Meetify is a web-based video conferencing app built with ReactJS. You can start 
 
 ## Folder Structure
 
+```
 ├── src/
     ├── components/         code for different components
     ├── constants/          constant data
@@ -33,6 +34,8 @@ Meetify is a web-based video conferencing app built with ReactJS. You can start 
     ├── hooks/              custom hooks
     ├── page/               code of different pages
     ├── sounds/             used audio files
+ 
+```
  
 ## Installation
 
