@@ -143,11 +143,3 @@ git push -u origin <your_branch_name>
 
 **16.**  After this, the maintainers will review the PR and will merge it if it helps move the project forward. Otherwise, it will be given constructive feedback and suggestions for the changes needed to add the PR to the codebase. 
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-## Contributors
-
-<a href="https://github.com/ashavijit/Meetify/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ashavijit/Meetify" />
-</a>
