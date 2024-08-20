@@ -86,7 +86,7 @@ const Home = () => {
               Made with love by
               <a href="https://github.com/ashavijit" target={"_blank"} rel="noreferrer">
                 {" "}
-                Avijit <></>Sen
+                Mahesh <></>Kumar
               </a>
             </div>
           </div>
