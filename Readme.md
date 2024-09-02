@@ -61,11 +61,11 @@ videoconferencing-app is a web-based video conferencing app built with ReactJS. 
 1. Fork the [repository](https://github.com/ashavijit/Meetify).
 2. Clone your fork:
     ```
-    git clone https://github.com/<your_user_name>/Meetify.git
+    git clone https://github.com/<your_user_name>/videoconferencing-app.git
     ```
 3. Navigate to the project directory:
     ```
-    cd Meetify
+    cd videoconferencing-app 
     ```
 4. Add the original repository as a remote:
     ```
