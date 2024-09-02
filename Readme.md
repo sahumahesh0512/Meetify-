@@ -1,8 +1,8 @@
-# Meetify Documentation
+# videoconferencing-app Documentation
 
 ## About The Project
 
-Meetify is a web-based video conferencing app built with ReactJS. You can start an instant meeting or schedule one for later. The app supports in-meeting chat and allows unlimited participants in a single meeting.
+videoconferencing-app is a web-based video conferencing app built with ReactJS. You can start an instant meeting or schedule one for later. The app supports in-meeting chat and allows unlimited participants in a single meeting.
 
 
 ## Features
@@ -42,7 +42,7 @@ Meetify is a web-based video conferencing app built with ReactJS. You can start 
 1. Ensure you have [Node.js](https://nodejs.org/) v10+ installed.
 2. Clone the repository:
     ```
-    cd Meetify
+    cd videoconferencing-app
     ```
 3. Install dependencies:
     ```
