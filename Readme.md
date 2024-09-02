@@ -54,7 +54,7 @@ videoconferencing-app is a web-based video conferencing app built with ReactJS. 
     ```
 5. Open `http://localhost:3000` in your browser.
 
-![Webpage](https://user-images.githubusercontent.com/84511419/194266338-6288daa8-9880-4d1e-8058-79ab1d2a1eb9.png)
+![Webpage](https://github.com/sahumahesh0512/videoconferencing-app/blob/main/public/images/Webpage.png)
 
 ## Getting Started
 
